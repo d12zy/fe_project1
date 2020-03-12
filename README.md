@@ -1,2 +1,3 @@
-# fe_project1
+# Flex CSS
 Free-styling flexbox (no framework)
+Uwuu :)
